@@ -1,3 +1,15 @@
+# Hola! 🪐
+
+- Currently working on:
+  - Recipes cooking full stack web application: [web](https://github.com/luz-ojeda/cook-web) - [API](https://github.com/luz-ojeda/cook-api)
+    - [Live Demo](https://cook-web-weathered-thunder-7639.fly.dev/)
+  - [C# Player's Guide book](https://csharpplayersguide.com/)
+    - [Final project](https://github.com/luz-ojeda/c-players-guide-endgame)
+  - [Leetcode](https://leetcode.com/luzojeda/)
+- I’m currently learning:
+  - Discrete mathematics at college
+  - 🍞 Baking and 🍳 cooking
+
 ## Repositories
 
 - [Cook web](https://github.com/luz-ojeda/cook-web) <sub>2024+</sub><br /><sup>_Developed in SvelteKit, makes use of the cooking recipes API._</sup>
