@@ -4,7 +4,7 @@
   - Recipes cooking full stack web application: [web](https://github.com/luz-ojeda/cook-web) - [API](https://github.com/luz-ojeda/cook-api)
     - [Live Demo](https://cook-web-weathered-thunder-7639.fly.dev/)
   - [C# Player's Guide book](https://csharpplayersguide.com/)
-    - [Final project](https://github.com/luz-ojeda/c-players-guide-endgame)
+    - [Final project](https://github.com/luz-ojeda/c-players-guide-endgame): [Live demo](https://kind-wave-02b99d910.5.azurestaticapps.net/)
   - [Leetcode](https://leetcode.com/luzojeda/)
 - I’m currently learning:
   - Discrete mathematics at college
