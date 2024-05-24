@@ -1,8 +1,9 @@
 # Hola! 🪐
 
 - Currently working on:
-  - Recipes cooking full stack web application: [web](https://github.com/luz-ojeda/cook-web) - [API](https://github.com/luz-ojeda/cook-api)
+  - Recipes cooking full stack web application 2.0 version: [web](https://github.com/luz-ojeda/cook-web) - [API](https://github.com/luz-ojeda/cook-api)
     - [Live Demo](https://cook-web-weathered-thunder-7639.fly.dev/)
+    - [Project](https://github.com/users/luz-ojeda/projects/9) in GitHub
   - [C# Player's Guide book](https://csharpplayersguide.com/)
     - [Final project](https://github.com/luz-ojeda/c-players-guide-endgame): [Live demo](https://kind-wave-02b99d910.5.azurestaticapps.net/)
   - [Leetcode](https://leetcode.com/luzojeda/)
