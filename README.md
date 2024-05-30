@@ -2,7 +2,7 @@
 
 - Currently working on:
   - Recipes cooking full stack web application 2.0: [web](https://github.com/luz-ojeda/cook-web) - [API](https://github.com/luz-ojeda/cook-api)
-    - [Live Demo](https://cook-web-weathered-thunder-7639.fly.dev/)
+    - [Web](https://cook-web-weathered-thunder-7639.fly.dev/)
     - [Project](https://github.com/users/luz-ojeda/projects/9) in GitHub
   - [Leetcode](https://leetcode.com/luzojeda/)
 - I’m currently learning:
