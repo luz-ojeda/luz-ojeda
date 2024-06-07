@@ -5,9 +5,6 @@
     - [Web](https://cook-web-weathered-thunder-7639.fly.dev/)
     - [Project](https://github.com/users/luz-ojeda/projects/9) in GitHub
   - [Leetcode](https://leetcode.com/luzojeda/)
-- I’m currently learning:
-  - Discrete mathematics at college
-  - 🍞 Baking and 🍳 cooking
 
 ## Repositories
 
