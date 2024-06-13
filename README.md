@@ -4,7 +4,8 @@
   - Recipes cooking full stack web application 2.0: [web](https://github.com/luz-ojeda/cook-web) - [API](https://github.com/luz-ojeda/cook-api)
     - [Web](https://cook-web-weathered-thunder-7639.fly.dev/)
     - [Project](https://github.com/users/luz-ojeda/projects/9) in GitHub
-  - [Leetcode](https://leetcode.com/luzojeda/)
+  - [Leetcode](https://leetcode.com/luzojeda/) and [Hackerrank](https://www.hackerrank.com/profile/lezojeda)
+  - Contributing to [Cuentoneta](https://github.com/cuentoneta/cuentoneta)
 
 ## Repositories
 
