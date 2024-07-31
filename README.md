@@ -2,6 +2,7 @@ believe in good (づᴗ _ᴗ)づ♡
 
 - currently working on:
   - contributing to [Cuentoneta](https://github.com/cuentoneta/cuentoneta)
+  - [OSSU Core Programming](https://github.com/ossu/computer-science?tab=readme-ov-file#core-programming) section from the Computer Science curriculum
 
 ## repositories
 
