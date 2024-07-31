@@ -1,9 +1,6 @@
 believe in good (づᴗ _ᴗ)づ♡
 
 - currently working on:
-  - recipes cooking full stack web application 2.0: [web](https://github.com/luz-ojeda/cook-web) - [API](https://github.com/luz-ojeda/cook-api)
-    - [web](https://cook-web-weathered-thunder-7639.fly.dev/)
-    - [project](https://github.com/users/luz-ojeda/projects/9) in GitHub
   - contributing to [Cuentoneta](https://github.com/cuentoneta/cuentoneta)
 
 ## repositories
