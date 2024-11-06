@@ -1,8 +1,8 @@
 believe in good (づᴗ _ᴗ)づ♡
 
-- currently working on:
-  - contributing to [Cuentoneta](https://github.com/cuentoneta/cuentoneta)
+- currently studying:
   - [OSSU Core Programming](https://github.com/ossu/computer-science?tab=readme-ov-file#core-programming) section from the Computer Science curriculum
+    - [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c): last part of a three-part course which explores SML, Racket and Ruby
 
 ## repositories
 
