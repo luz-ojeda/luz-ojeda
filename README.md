@@ -1,8 +1,8 @@
 believe in good (づᴗ _ᴗ)づ♡
 
 - currently studying:
-  - [OSSU Core Programming](https://github.com/ossu/computer-science?tab=readme-ov-file#core-programming) section from the Computer Science curriculum
-    - [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c): last part of a three-part course which explores SML, Racket and Ruby
+  - [OSSU](https://github.com/ossu/computer-science)
+    - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## repositories
 
