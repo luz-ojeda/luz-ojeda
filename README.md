@@ -1,8 +1,6 @@
 believe in good (づᴗ _ᴗ)づ♡
 
-- currently studying:
-  - [OSSU](https://github.com/ossu/computer-science)
-    - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- currently chilling until January
 
 ## repositories
 
