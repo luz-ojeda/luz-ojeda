@@ -1,7 +1,5 @@
 believe in good (づᴗ _ᴗ)づ♡
 
-- currently chilling until January
-
 ## repositories
 
 - [cook web](https://github.com/luz-ojeda/cook-web) <sub>2024</sub><br /><sup>_developed in SvelteKit, makes use of the cooking recipes API._</sup>
